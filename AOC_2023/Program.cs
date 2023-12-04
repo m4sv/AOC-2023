@@ -6,7 +6,7 @@ namespace AOC_2023
     {
         static void Main(string[] args)
         {
-            Day3.Part2();
+            Day4.Part2();
         }
     }
 }
